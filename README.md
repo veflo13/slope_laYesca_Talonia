@@ -4,6 +4,7 @@ In 2018 I was taking classes with Ulises Talonia, director of this thesis, my cl
 # Next steps 
 Years later I reused the program for slope stability in volcanic rock of the tlalpan delegation in CDMX.
 I would like it to be more interactive and with a user interface.
+First step translate this to Object-oriented programming
 # References
 Ergueta Hurtado, M. (2014). Análisis de estabilidad de taludes en roca. Caso práctico; Talud izquierdo del vertedor de la C. H. La Yesca. Ciudad de México: Fes Acatlán. Obtenido de http://132.248.9.195/ptd2014/octubre/0720463/0720463.pdf
 
